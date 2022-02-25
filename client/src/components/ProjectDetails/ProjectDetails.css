@@ -1,0 +1,20 @@
+.cardContainer {
+  margin-bottom: 50px;
+}
+.differentPrDet {
+  width: 33%;
+  height: 33px;
+}
+.paragraf {
+  margin-bottom: 125px;
+  margin-left: 215px;
+}
+.time {
+  float: right;
+}
+.pName {
+  padding-left: 300px;
+}
+.download {
+  float: center;
+}

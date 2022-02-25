@@ -1,0 +1,31 @@
+.card{
+    margin-bottom:50px;
+    margin-left: 40px;
+}
+
+.name{
+    margin-bottom: 100px;
+    margin-left: 250px;
+}
+.paragraf{
+    margin-bottom:125px;
+    margin-left: 500px;
+}
+
+.img {
+    width: 300px;
+    height: 140px;
+    margin-bottom: 5px;
+}
+.fr {
+    margin-right: 100px;
+}
+.icons {
+    margin-left: 40px;
+    display: 'flex';
+    justify-Content: 'space-between';
+}
+.likee {
+    margin-right: 20px;
+    color:blue;
+}

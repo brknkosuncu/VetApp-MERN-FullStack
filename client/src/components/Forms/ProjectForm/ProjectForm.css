@@ -1,0 +1,25 @@
+.form1 {
+  background: rgb(234, 241, 243);
+  margin-left: 220px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  width: 43%;
+  margin-top: 30px;
+  margin-bottom: 200px;
+}
+
+.create {
+  text-align: center;
+}
+
+.button {
+  display: inline-block;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.contactButton {
+  width: 100%;
+}
