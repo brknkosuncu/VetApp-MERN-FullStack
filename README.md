@@ -84,11 +84,11 @@ tarafından indirilebilmesi, kullanıcı yorumları bulunuyor.
 * Veritabanı: MongoDB
 * Bulut Veritabanı: MongoDB Cloud
 * HTML Şablon Motoru: Visual Studio Code
-* CSS Çatısı: Bootstrap
+* CSS Çatısı: Bootstrap, Reactstrap vb. 
 * Programlama Dili: Javascript
 * Sürüm Kontrolü: Git
 * Haberleşme: REST API
-* Arayüz Çatısı: Angular
+* Arayüz Çatısı: React
 * API Testi: Postman
 
 
